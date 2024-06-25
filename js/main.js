@@ -1,5 +1,5 @@
 $( document ).ready(function() {
     $('#btn').click(function() {
-        window.alert("DID YOU JUST CLICK ME?!");
+        window.alert("Did you know that sea butterflies are hermaphrodites, meaning they are both male and female?");
     });
 });
